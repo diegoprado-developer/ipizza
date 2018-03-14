@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="str_nome_app">iPizza</string>
+    <string name="str_titulo_pizza">Pizzas</string>
+    <string name="str_sabor_mussarela">Mussarela - R$24,00</string>
+    <string name="str_sabor_portuguesa">Portuguesa -  R$26,00</string>
+    <string name="str_sabor_calabresa">Calabresa - R$24,00</string>
+    <string name="str_titulo_bebida">Bebidas</string>
+    <string name="str_bebida_coca">Coca-cola 2L - R$8,50</string>
+    <string name="str_bebida_guarana">Kuat 2L -  R$6,00</string>
+    <string name="str_bebida_sprit">Sprite 2L - R$4,00</string>
+    <string name="str_btn_iniciar_atendimento">Iniciar Atendimento</string>
+</resources>
